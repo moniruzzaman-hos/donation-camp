@@ -13,7 +13,6 @@ const saveDonations = (item) => {
   const exists = storedDonations.find(
     (donationId) => donationId?.id === item?.id
   );
-  console.log(exists);
   if (!exists?.id) {
     storedDonations.push(item);
     localStorage.setItem("donations", JSON.stringify(storedDonations));
