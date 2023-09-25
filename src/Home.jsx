@@ -48,7 +48,7 @@ const Home = () => {
 
       <div className="flex justify-center">
         <div className="grid grid-cols-1 lg:grid-cols-4 md:grid-cols-2 gap-8 my-4">
-          {donation.map((item, index) => {
+          {donation?.map((item, index) => {
             return (
               <div
                 key={index}

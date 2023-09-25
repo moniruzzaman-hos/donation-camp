@@ -8,7 +8,7 @@ function Donation() {
   return (
     <div className="flex flex-col mx-4 justify-center items-center">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10 my-4">
-        {donations?.slice(0, 4).map((item, index) => {
+        {donations?.slice(0, 4)?.map((item, index) => {
           return (
             <div
               key={index}
@@ -67,7 +67,7 @@ function Donation() {
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10 my-4">
         {seeAll
-          ? donations?.slice(-8).map((item, index) => {
+          ? donations?.slice(-8)?.map((item, index) => {
               return (
                 <div
                   key={index}

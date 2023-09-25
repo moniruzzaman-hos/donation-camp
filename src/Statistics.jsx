@@ -5,14 +5,14 @@ function Statistics() {
   const donations = useLoaderData();
   let totalDonation = { name: "totalDonate", value: 0 };
   if (donations.length > 0) {
-    donations.map((item) => {
+    donations?.map((item) => {
       totalDonation.value += item?.price;
     });
   }
   const dotatedData = getStoredDonations();
   let totalDonated = { name: "totalDonated", value: 0 };
   if (dotatedData.length > 0) {
-    dotatedData.map((item) => {
+    dotatedData?.map((item) => {
       totalDonated.value += item?.price;
     });
   }
@@ -60,7 +60,7 @@ function Statistics() {
           fill="#8884d8"
           dataKey="value"
         >
-          {data.map((entry, index) => (
+          {data?.map((entry, index) => (
             <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
           ))}
         </Pie>
