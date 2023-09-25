@@ -24,8 +24,8 @@ const Home = () => {
   return (
     <div className="mx-auto w-full">
       {/* banner */}
-      <div className="h-48 flex flex-col align-middle justify-center bg-fixed bg-center bg-cover bg-no-repeat items-center bg-[url('./money-tree.png')] bg-green-500 bg-opacity-50">
-        <p className="text-4xl font-black text-white">
+      <div className="h-96 flex flex-col align-middle justify-center bg-fixed bg-center bg-cover bg-no-repeat items-center bg-[url('https://i.ibb.co/WpFmMxC/Food.png')] bg-green-500 bg-opacity-25">
+        <p className="text-4xl font-black text-red-600">
           I Grow By Helping People In Need
         </p>
         <div className="form-control">
@@ -53,10 +53,17 @@ const Home = () => {
               <div
                 key={index}
                 style={{ backgroundColor: item?.card_bg }}
-                className="w-56 h-56 p-4 rounded-xl cursor-pointer"
+                className="w-56 p-4 rounded-xl cursor-pointer"
               >
                 <Link to={`/donation/${item?.id}`}>
-                  <div className="flex flex-col h-full justify-end">
+                  <div className="rounded-lg">
+                    <img
+                      className="h-20 w-full rounded-lg mb-4"
+                      src={item?.picture}
+                      alt=""
+                    />
+                  </div>
+                  <div className="flex flex-col h-fit justify-end">
                     <p
                       style={{ backgroundColor: item?.category_bg }}
                       className={`p-1 px-2 rounded-lg w-fit text-white`}
