@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Clothing Donation For Poor People",
+    "picture": "https://i.ibb.co/w7tpmZN/Clothing.png",
+    "category": "Cloth",
+    "category_bg": "#fca3",
+    "card_bg": "#755e2f",
+    "text_button_color": "#a3b314",
+    "description": "Donate your unwanted garments to charity and you can let your clothes be loved all over again. You might not be getting much use out of that jumper or suit, but someone else definitely will – and they could be buying it instead of something brand new, too.",
+    "price": 500
+  },
+  {
+    "id": 2,
+    "title": "Food For Everyone",
+    "picture": "https://i.ibb.co/WpFmMxC/Food.png",
+    "category": "Food",
+    "category_bg": "#14abb3",
+    "card_bg": "#295e54",
+    "text_button_color": "#a3b3a3",
+    "description": "Donating to the needy is a great way to improve the conditions in your neighborhood or community. Donating food to the worthy people or organizations helps counter poverty, hunger and at the same time, it can improve harmony, friendliness, and trust among residents.",
+    "price": 1000
+  },
+  {
+    "id": 3,
+    "title": "Health Is Wealth",
+    "picture": "https://i.ibb.co/Wk7Zy89/Health.png",
+    "category": "Health",
+    "category_bg": "#f54242",
+    "card_bg": "#5e2f2f",
+    "text_button_color": "#8a6633",
+    "description": "The Health Benefits of Giving | RUSH Perhaps because of such positive feelings, giving may decrease your risk of depression and depressive symptoms such as sadness or lack of energy. One study of older adults found that those who helped their loved ones experienced greater feelings of personal control over their lives.",
+    "price": 400
+  },
+  {
+    "id": 4,
+    "title": "Education For All",
+    "picture": "https://i.ibb.co/NtPFcRS/Education.png",
+    "category": "Education",
+    "category_bg": "#385bcf",
+    "card_bg": "#404966",
+    "text_button_color": "#8a6633",
+    "description": "Now his charitable donations run into millions. The easiest way to make regular charitable donations is payroll giving. He would be worth more but for large donations to charity. She and her family are now reliant on food donations.",
+    "price": 1200
+  },
+  {
+    "id": 5,
+    "title": "Transport Is Important",
+    "picture": "https://i.ibb.co/2KmnbwR/transport.jpg",
+    "category": "Transport",
+    "category_bg": "#000",
+    "card_bg": "#efe444",
+    "text_button_color": "#323628",
+    "description": "A donation is a gift for charity, humanitarian aid, or to benefit a cause. A donation may take various forms, including money, alms, services, or goods such as clothing, toys, food, or vehicles. A donation may satisfy medical needs such as blood or organs for transplant.",
+    "price": 500
+  },
+  {
+    "id": 6,
+    "title": "Entertainment Refrashment",
+    "picture": "https://i.ibb.co/HFszDrR/entertainment.jpg",
+    "category": "Entertainment",
+    "category_bg": "#12a37f",
+    "card_bg": "#2f5e4e",
+    "text_button_color": "#ffeeaa",
+    "description": "The Entertainment Community Fund The Entertainment Community Fund, formerly The Actors Fund, is a 501(c)(3) charitable organization that supports performers and behind-the-scenes workers in performing arts and entertainment, helping more than 17,000 people directly each year.",
+    "price": 200
+  },
+  {
+    "id": 7,
+    "title": "Blood Donation",
+    "picture": "https://i.ibb.co/qFPnycs/blood.jpg",
+    "category": "Blood",
+    "category_bg": "#db0b12",
+    "card_bg": "#5e2f2f",
+    "text_button_color": "#8a6633",
+    "description": "The procedure is safe and relatively painless. During a regular donation, you will give around 470ml of whole blood. This is about 8% of the average adult's blood volume. The body replaces this volume within 24 to 48 hours, and replenishes red blood cells in 10 to 12 weeks.",
+    "price": 600
+  },
+  {
+    "id": 8,
+    "title": "Drag For Weak People",
+    "picture": "https://i.ibb.co/10s4gRs/drag.jpg",
+    "category": "Drag",
+    "category_bg": "#355678",
+    "card_bg": "#5e2f2f",
+    "text_button_color": "#b1e222",
+    "description": "Drag is a performance of exaggerated femininity, masculinity, or other forms of gender expression, usually for entertainment purposes. Drag usually involves cross-dressing. A drag queen is someone (usually male) who performs femininely and a drag king is someone (usually female) who performs masculinely.",
+    "price": 700
+  },
+  {
+    "id": 9,
+    "title": "Tree Plantation",
+    "picture": "https://i.ibb.co/K526rFQ/tree.jpg",
+    "category": "Tree",
+    "category_bg": "#46d456",
+    "card_bg": "#809683",
+    "text_button_color": "#1fcfa6",
+    "description": "The Importance of Trees - Learn Value and Benefit of Trees Trees contribute to their environment by providing oxygen, improving air quality, climate amelioration, conserving water, preserving soil, and supporting wildlife. During the process of photosynthesis, trees take in carbon dioxide and produce the oxygen we breathe.",
+    "price": 350
+  },
+  {
+    "id": 10,
+    "title": "Winter Cloth For Poor People",
+    "picture": "https://i.ibb.co/XZtxStT/winter-Cloth.jpg",
+    "category": "Cloth",
+    "category_bg": "#fd03",
+    "card_bg": "#755e2f",
+    "text_button_color": "#a3b314",
+    "description": "Donate your unwanted garments to charity and you can let your clothes be loved all over again. You might not be getting much use out of that jumper or suit, but someone else definitely will – and they could be buying it instead of something brand new, too.",
+    "price": 900
+  },
+  {
+    "id": 11,
+    "title": "Entertainment Hub",
+    "picture": "https://i.ibb.co/HFszDrR/entertainment.jpg",
+    "category": "Entertainment",
+    "category_bg": "#12a37f",
+    "card_bg": "#2f5e4e",
+    "text_button_color": "#ffeeaa",
+    "description": "The Entertainment Community Fund The Entertainment Community Fund, formerly The Actors Fund, is a 501(c)(3) charitable organization that supports performers and behind-the-scenes workers in performing arts and entertainment, helping more than 17,000 people directly each year.",
+    "price": 600
+  },
+  {
+    "id": 12,
+    "title": "Blood Donation To Save Life",
+    "picture": "https://i.ibb.co/qFPnycs/blood.jpg",
+    "category": "Blood",
+    "category_bg": "#db0b12",
+    "card_bg": "#5e2f2f",
+    "text_button_color": "#8a6633",
+    "description": "The procedure is safe and relatively painless. During a regular donation, you will give around 470ml of whole blood. This is about 8% of the average adult's blood volume. The body replaces this volume within 24 to 48 hours, and replenishes red blood cells in 10 to 12 weeks.",
+    "price": 300
+  }
+]
